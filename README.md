@@ -111,8 +111,8 @@ O projeto também ajudou a reforçar a importância de planejar a página antes 
 
 **Roberto Sergio dos Santos Siqueira**
 
-Estudante de Análise e Desenvolvimento de Sistemas.
+Estudante de Análise e Desenvolvimento de Sistemas | UniCesumar
 
-## 📄 Licença
+## Licença
 
 Este projeto foi criado para fins acadêmicos e de estudo.
