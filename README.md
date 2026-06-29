@@ -39,7 +39,7 @@ O objetivo principal foi colocar em prática os conceitos estudados na disciplin
 * Uso de links internos e externos
 * Responsividade para computador e celular
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 * HTML5
 * CSS3
