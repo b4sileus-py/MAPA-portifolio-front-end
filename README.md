@@ -4,13 +4,13 @@ Projeto desenvolvido como parte da **Atividade MAPA da disciplina de Programaç�
 
 A página apresenta informações pessoais e profissionais, habilidades, projetos desenvolvidos, links úteis e formas de contato.
 
-## 🔗 Página publicada
+## Página publicada
 
 Acesse o projeto publicado pelo GitHub Pages:
 
 [Ver página online](https://github.com/b4sileus-py/MAPA-portifolio-front-end)
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
 Este projeto consiste em uma Landing Page pessoal criada para funcionar como uma apresentação profissional simples.
 
@@ -27,7 +27,7 @@ A página contém:
 * Links para redes sociais
 * Rodapé com informações de contato
 
-## 🎯 Objetivo da atividade
+## Objetivo da atividade
 
 O objetivo principal foi colocar em prática os conceitos estudados na disciplina de Programação Front-End, principalmente:
 
@@ -45,7 +45,7 @@ O objetivo principal foi colocar em prática os conceitos estudados na disciplin
 * CSS3
 * GitHub Pages
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```text
 MAPA-portifolio-front-end/
@@ -61,7 +61,7 @@ MAPA-portifolio-front-end/
     └── Facebook.png
 ```
 
-## 🧱 Estrutura HTML
+## Estrutura HTML
 
 O projeto utiliza tags semânticas para organizar melhor o conteúdo da página.
 
@@ -75,7 +75,7 @@ Principais tags utilizadas:
 * `<aside>`: usado para informações extras e links úteis.
 * `<footer>`: usado para informações de contato e direitos autorais.
 
-## 🎨 Estilo visual
+## Estilo visual
 
 A identidade visual da página foi inspirada no tema **Drácula Dark**, bastante usado em editores de código como o VS Code.
 
@@ -83,13 +83,13 @@ Foram utilizadas cores escuras no fundo e tons de destaque em verde, roxo, azul 
 
 A fonte principal utilizada foi **Consolas**, uma fonte monoespaçada comum em ambientes de desenvolvimento, reforçando a proposta visual voltada à tecnologia.
 
-## 📱 Responsividade
+## Responsividade
 
 O projeto possui ajustes de responsividade com `@media`, permitindo que a página se adapte melhor a telas menores, como celulares.
 
 Em dispositivos móveis, os elementos do cabeçalho, menu, lista de habilidades e cards dos projetos se reorganizam para melhorar a leitura e navegação.
 
-## 💼 Projetos apresentados
+## Projetos apresentados
 
 A página apresenta dois projetos principais:
 
@@ -101,13 +101,13 @@ Projeto prático desenvolvido com HTML e CSS puro para organizar uma lista pesso
 
 Projeto desenvolvido para a Latos Mídia, empresa local de design, social media e produção audiovisual. A proposta foi criar uma landing page institucional para apresentar a marca, seus serviços, portfólio e canais de contato.
 
-## 💡 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível praticar a criação de uma página completa usando HTML e CSS, aplicando conceitos de estrutura, semântica, estilização, responsividade e organização visual.
 
 O projeto também ajudou a reforçar a importância de planejar a página antes de codificar, separando conteúdo, layout e estilo de forma mais organizada.
 
-## 👤 Autor
+## Autor
 
 **Roberto Sergio dos Santos Siqueira**
 
