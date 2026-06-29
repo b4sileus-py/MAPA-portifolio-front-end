@@ -48,7 +48,7 @@ O objetivo principal foi colocar em prática os conceitos estudados na disciplin
 ## 📁 Estrutura do projeto
 
 ```text
-portfolio/
+MAPA-portifolio-front-end/
 │
 ├── index.html
 ├── style.css
