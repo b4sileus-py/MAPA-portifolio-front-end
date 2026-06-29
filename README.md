@@ -8,7 +8,7 @@ A página apresenta informações pessoais e profissionais, habilidades, projeto
 
 Acesse o projeto publicado pelo GitHub Pages:
 
-[Ver página online]([https://b4sileus-py.github.io/NOME-DO-REPOSITORIO/](https://github.com/b4sileus-py/MAPA-portifolio-front-end))
+[Ver página online](https://b4sileus-py.github.io/MAPA-portifolio-front-end/)
 
 ## 📌 Sobre o projeto
 
